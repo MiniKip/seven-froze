@@ -80,8 +80,4 @@ function floor_0.explore()
     end
 end
 
-
-
-
-
 return floor_0
